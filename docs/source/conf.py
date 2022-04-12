@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Display Namespace Documentation'
+copyright = '2022, US Government Work'
+author = 'A.C.Raugh'
 
 release = '0.1'
 version = '0.1.0'
