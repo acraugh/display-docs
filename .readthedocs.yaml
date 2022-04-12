@@ -3,7 +3,9 @@
 version: 2
 
 formats:
-  - all
+  - pdf
+  - epub
+  - htmlzip
 
 
 # Document End
