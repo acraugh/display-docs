@@ -1,0 +1,12 @@
+# Document Start
+---
+version: 2
+
+formats:
+  - pdf
+  - epub
+  - htmlzip
+
+
+# Document End
+...
